@@ -1,4 +1,4 @@
-### Hi there I'm Manticore in RhodesIsland in Arknights👋
+### Hi there I'm Manticore in RhodesIsland of Arknights👋
 ### I want to learn Deep Learning to get my personalized GPT-3(if possible) chatbot.😄
 #### A simple chatbot to start with is OK.
 ⚡ My repositories are mostly used to upload my homework ^_^
