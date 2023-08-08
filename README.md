@@ -1,7 +1,7 @@
 ### Hi there I'm Manticore in RhodesIsland👋
-### I want to learn Deep Learning to get my personalized chatbot.😄
+### Purple shadow from Salgon.😄
 ⚡ My repositories are mostly used to upload my homework ^_^
-💬 Invisibility is my feature, so I have a few friends.
+💬 Feature is invisivility.
 
 <!--
 **liberate-your-heart/liberate-your-heart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
