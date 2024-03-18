@@ -1,6 +1,5 @@
-### Hi there I'm Manticore in RhodesIsland👋
+### Hi there I'm Manticore, a fresh graduate student.👋
 ### Purple shadow from Salgon.😄
-⚡ My repositories are mostly used to upload my homework ^_^
 
 💬 Feature is invisivility.
 
