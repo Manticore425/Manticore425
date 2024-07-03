@@ -1,7 +1,7 @@
-### Hi there I'm Manticore, a fresh graduate student.👋
+### Hi there I'm a fresh graduate student.👋
 ### Purple shadow from Salgon.😄
 
-💬 Feature is invisivility.
+💬 Feature is invisibility.
 
 <!--
 **liberate-your-heart/liberate-your-heart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
