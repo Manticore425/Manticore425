@@ -1,5 +1,6 @@
-### Hi there I'm a fresh graduate student.👋
-### Purple shadow from Salgon.😄
+### Hi there I'm a student in AI, CV, RemoteSensing, etc. 👋
+
+### Purple shadow from RhodesIsland.😄
 
 💬 Feature is invisibility.
 
